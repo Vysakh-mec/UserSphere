@@ -45,8 +45,8 @@ The User Directory App is a React Native project that allows users to view a lis
 
 ## Media Links
 
-  - Screenshots : (View Screenshot)[https://drive.google.com/drive/folders/14hV-JxShBKY9Bgi52TJWEX4OUzMeiSHs?usp=sharing]
-  - Demo Video : (Watch Video)[https://drive.google.com/file/d/1eQNkzYroL3wii0Wcj7Rb-9upBvjJWf50/view?usp=drive_link]
+  - Screenshots : [View Screenshot](https://drive.google.com/drive/folders/14hV-JxShBKY9Bgi52TJWEX4OUzMeiSHs?usp=sharing)
+  - Demo Video :  [Watch Video](https://drive.google.com/file/d/1eQNkzYroL3wii0Wcj7Rb-9upBvjJWf50/view?usp=drive_link)
 
 ## Challenges Faced
 
