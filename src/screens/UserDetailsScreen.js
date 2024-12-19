@@ -10,8 +10,6 @@ const UserDetailsScreen = () => {
 
   const data = route.params
 
-  console.log(data)
-  
   useLayoutEffect(() => {
     navigation.setOptions({
       headerTitle:data.name,
